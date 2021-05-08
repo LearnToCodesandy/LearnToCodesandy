@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ... python and web development
 - 💞️ I’m looking to collaborate on ... open source projects 
 - 📫 How to reach me ... nelapudisandeepofficial@gmail.com
+- Trying to figure it out by myself. Best way to learn...
 
 <!---
 LearnToCodesandy/LearnToCodesandy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
